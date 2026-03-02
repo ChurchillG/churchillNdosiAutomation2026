@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 import factory.BrowserFactory;
 import org.openqa.selenium.WebDriver;
